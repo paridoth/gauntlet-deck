@@ -1,0 +1,17 @@
+.cache/
+__pycache__/
+dist/
+*.pyc
+*.iso
+*.gcm
+*.rvz
+*.gcz
+*.wia
+*.ciso
+*.wbfs
+*.nkit.*
+SteamDeck-Transfer/
+SteamDeck-Transfer.zip
+SteamDeck-Transfer.zip.sha256
+
+bin/

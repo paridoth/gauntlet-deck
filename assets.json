@@ -1,0 +1,50 @@
+{
+  "patch0": {
+    "url": "https://github.com/CyberNomadic/GDL_Patch/releases/download/patch13/Rev0-to-Rev13.xdelta",
+    "sha256": "4702a8b1c8b3240979d78ed540f7bccfcd587361b9bbb325b3f46c6d2636aedf",
+    "size": 702708,
+    "filename": "Rev0-to-Rev13.xdelta"
+  },
+  "patch1": {
+    "url": "https://github.com/CyberNomadic/GDL_Patch/releases/download/patch13/Rev1-to-Rev13.xdelta",
+    "sha256": "3e58869a1cdec53a32f24b12d90d871bd82816d4ff8533cb02590b340a9a4034",
+    "size": 507818,
+    "filename": "Rev1-to-Rev13.xdelta"
+  },
+  "hd": {
+    "filename": "Gauntlet-Dark-Legacy-HD-2.0-GC.zip",
+    "url": "https://drive.google.com/uc?export=download&id=1zhLTYNhxg3XrXG_fDkZHvMYrzT4uBwzm",
+    "sha256": "2667195680ef70e09c3e6761d1458a9302fd069defb19cb770c1e650be8c7572",
+    "size": 2147869113
+  },
+  "xdelta": {
+    "filename": "xdelta3-3.2.2-linux-x86_64.tar.gz",
+    "url": "https://github.com/jmacd/xdelta/releases/download/v3.2.2/xdelta3-3.2.2-linux-x86_64.tar.gz",
+    "sha256": "a8ce7d2c943ae2b3d308942643cb36d4805a1f16775abe1be64fee292d7c2506"
+  },
+  "fps60": {
+    "filename": "$60 FPS - No Game Speedup [Vizyne].txt",
+    "url": "https://raw.githubusercontent.com/Vizyne/Gauntlet-Dark-Legacy---Game-Codes-by-Vizyne/085fdcc725b98fce51bc0d0426354659fd3ef7f4/%2460%20FPS%20-%20No%20Game%20Speedup%20%5BVizyne%5D.txt",
+    "sha256": "d44ec5cbc6b9719e4623a9b6d41547282d3e5691ca5b3586de4cf1e8c6a35df2"
+  },
+  "inventory": {
+    "filename": "$GDL Patch by Vizyne [Vizyne].txt",
+    "url": "https://raw.githubusercontent.com/Vizyne/Gauntlet-Dark-Legacy---Game-Codes-by-Vizyne/085fdcc725b98fce51bc0d0426354659fd3ef7f4/%24GDL%20Patch%20by%20Vizyne%20%5BVizyne%5D.txt",
+    "sha256": "4242d3b5a71cfb6bb6c6890638d980101fa7df5e7a17b0eea7ce7742fb77bc40"
+  },
+  "timer": {
+    "filename": "$Item Timer & Charges Display [Vizyne].txt",
+    "url": "https://raw.githubusercontent.com/Vizyne/Gauntlet-Dark-Legacy---Game-Codes-by-Vizyne/085fdcc725b98fce51bc0d0426354659fd3ef7f4/%24Item%20Timer%20%26%20Charges%20Display%20%5BVizyne%5D.txt",
+    "sha256": "b8a841cc783e015f44786468f49e66f078a7d9f5e93e4463f4de73faf45e1805"
+  },
+  "reset_stats": {
+    "filename": "$Reset Character & Show Stats Options [Vizyne].txt",
+    "url": "https://raw.githubusercontent.com/Vizyne/Gauntlet-Dark-Legacy---Game-Codes-by-Vizyne/085fdcc725b98fce51bc0d0426354659fd3ef7f4/%24Reset%20Character%20%26%20Show%20Stats%20Options%20%5BVizyne%5D.txt",
+    "sha256": "7e47c86cc1bdfd5c0b2af28e37eda59d6f38b325dab923249643657619a90094"
+  },
+  "skip_intro": {
+    "filename": "$Skip Intro Cutscenes [Vizyne].txt",
+    "url": "https://raw.githubusercontent.com/Vizyne/Gauntlet-Dark-Legacy---Game-Codes-by-Vizyne/085fdcc725b98fce51bc0d0426354659fd3ef7f4/%24Skip%20Intro%20Cutscenes%20%5BVizyne%5D.txt",
+    "sha256": "ed0df8d2ad747c26a123c60b5c1a2a9b22c704264c938b84763f9567f1c2269d"
+  }
+}
